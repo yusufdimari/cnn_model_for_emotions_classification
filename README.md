@@ -1,19 +1,3 @@
-```markdown project="Flask TensorFlow Image Predictor" file="README.md"
-...
-```
-
-your-project/
-├── api/
-│ └── predict.py
-├── src/
-│ └── model/
-│ └── model2.h5
-├── requirements.txt
-├── vercel.json
-└── README.md
-
-```plaintext
-
 ## Prerequisites
 
 - Python 3.8+
@@ -23,7 +7,8 @@ your-project/
 ## Installation
 
 1. Clone the repository:
-```
+
+````
 
 git clone [https://github.com/yourusername/your-project-name.git](https://github.com/yourusername/your-project-name.git)
 cd your-project-name
@@ -31,7 +16,7 @@ cd your-project-name
 ```plaintext
 
 2. Install the required dependencies:
-```
+````
 
 pip install -r requirements.txt
 
